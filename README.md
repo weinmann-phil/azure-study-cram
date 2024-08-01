@@ -286,7 +286,7 @@ used to create this project.
 [license-url]: https://github.com/weinmann-phil/azure-study-cram/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/philipweinmann
-[product-screenshot]: img/Microsoft_Azure.png
+[product-screenshot]: ./img/Microsoft_Azure.png
 <!-- [Terraform]: https://img.shields.io/badge/terraform-4A235A?style=for-the-badge&logo=terraform -->
 
 
