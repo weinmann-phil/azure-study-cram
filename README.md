@@ -27,13 +27,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/weinmann-phil/azure-study-cram">
-    <img src="img/Go-Logo_Blue.png" alt="Logo" width="80" height="80">
+    <img src="img/Microsof_Azure.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Simple Go API</h3>
+  <h3 align="center">Azure Study Cram</h3>
 
   <p align="center">
-    Simple Go API 
+    Azure Study Cram 
     <br />
     <a href="https://github.com/weinmann-phil/azure-study-cram"><strong>Explore the docs »</strong></a>
     <br />
