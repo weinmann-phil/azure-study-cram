@@ -66,6 +66,10 @@ Here's why:
 * Certifications can be important for career 😻
 * A project helps to organize thought and structure that which was learned (to some degree) 🍸
 
+Why I am not using ChatGPT for this:
+
+* ChatGPT may be an excellent tool to prepare an outline for what to study and providing 
+  a proper study guide, but I am looking for structuring the information on my own
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -269,6 +273,7 @@ I am grateful to the people that provided the following resources, which I have
 used to create this project.
 
 * [README template](https://github.com/othneildrew/Best-README-Template)
+* [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -286,10 +291,11 @@ used to create this project.
 [license-url]: https://github.com/weinmann-phil/azure-study-cram/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/philipweinmann
-[product-screenshot]: ./img/Microsoft_Azure.png
+[product-screenshot]: /img/Microsoft_Azure.png <!-- ./img/Microsoft_Azure.png -->
 <!-- [Terraform]: https://img.shields.io/badge/terraform-4A235A?style=for-the-badge&logo=terraform -->
 
 
 ## Referecenes
 
 * [Learn Microsoft - Install Azure CLI Linux](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
+* [Github - Azure](https://github.com/Azure)
